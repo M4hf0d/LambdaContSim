@@ -1,0 +1,2 @@
+epochs,seed,total_placements,successful_placements,placement_success_rate,total_replacements,successful_replacements,replacement_success_rate,avg_placement_time,avg_replacement_time
+1000,490595674,1053,628,0.5963912630579298,22,14,0.6363636363636364,237.670543413443,376.70254707336426

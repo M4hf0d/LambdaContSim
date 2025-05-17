@@ -1,0 +1,3 @@
+application,placement_attempts,placement_successes,placement_success_rate,avg_placement_time,replacement_attempts,replacement_successes,replacement_success_rate,avg_replacement_time
+Siotec2022,404,234,0.5792079207920792,538.7155696897223,11,4,0.36363636363636365,703.540021722967
+Media Processing,649,394,0.6070878274268104,50.27117420602102,11,10,0.9090909090909091,49.86507242376154

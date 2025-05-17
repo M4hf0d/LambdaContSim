@@ -1,0 +1,131 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>LambdaFogSim Infrastructure Visualization</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 20px;
+                background-color: #f5f5f5;
+            }
+            h1, h2 {
+                color: #333;
+            }
+            .container {
+                max-width: 1200px;
+                margin: 0 auto;
+                background-color: white;
+                padding: 20px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+            .section {
+                margin-bottom: 30px;
+                border-bottom: 1px solid #eee;
+                padding-bottom: 20px;
+            }
+            .image-container {
+                text-align: center;
+                margin: 20px 0;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                border: 1px solid #ddd;
+            }
+            footer {
+                margin-top: 30px;
+                text-align: center;
+                color: #777;
+                font-size: 14px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>LambdaFogSim Infrastructure Visualization Report</h1>
+            
+            <div class="section">
+                <h2>Infrastructure Network</h2>
+                <p>This visualization shows the complete infrastructure topology with cloud, fog, and edge nodes and their connections.</p>
+                <div class="image-container">
+                    <img src="infrastructure_network.png" alt="Infrastructure Network">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Security Levels</h2>
+                <p>Distribution of security capabilities across the infrastructure.</p>
+                <div class="image-container">
+                    <img src="security_levels.png" alt="Security Levels">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Software Capabilities</h2>
+                <p>Distribution of software capabilities across the infrastructure.</p>
+                <div class="image-container">
+                    <img src="software_capabilities.png" alt="Software Capabilities">
+                </div>
+                <div class="image-container">
+                    <img src="software_capabilities_by_node_type.png" alt="Software Capabilities by Node Type">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Services Distribution</h2>
+                <p>Distribution of services across the infrastructure.</p>
+                <div class="image-container">
+                    <img src="services_distribution.png" alt="Services Distribution">
+                </div>
+                <div class="image-container">
+                    <img src="services_distribution_by_node_type.png" alt="Services Distribution by Node Type">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Application Workflows</h2>
+                <p>Visualization of application workflows.</p>
+                <h3>Media Processing</h3>
+                <div class="image-container">
+                    <img src="application_workflow_media.png" alt="Media Processing Workflow">
+                </div>
+                <h3>Siotec2022</h3>
+                <div class="image-container">
+                    <img src="application_workflow_siotec.png" alt="Siotec2022 Workflow">
+                </div>
+                <h3>Stock Market</h3>
+                <div class="image-container">
+                    <img src="application_workflow_stock.png" alt="Stock Market Workflow">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Node Statistics</h2>
+                <p>Node load statistics over time.</p>
+                <div class="image-container">
+                    <img src="node_stats.png" alt="Node Statistics">
+                </div>
+                <div class="image-container">
+                    <img src="node_stats_heatmap.png" alt="Node Load Heatmap">
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Infrastructure Events</h2>
+                <p>Node and link failures and resurrections.</p>
+                <div class="image-container">
+                    <img src="infrastructure_events.png" alt="Infrastructure Events">
+                </div>
+                <div class="image-container">
+                    <img src="infrastructure_events_cumulative.png" alt="Cumulative Infrastructure Events">
+                </div>
+            </div>
+            
+            <footer>
+                <p>Generated by LambdaFogSim Infrastructure Visualization</p>
+            </footer>
+        </div>
+    </body>
+    </html>
+    

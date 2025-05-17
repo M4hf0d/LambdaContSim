@@ -1,0 +1,1054 @@
+application,type,node,epoch,duration,success
+Siotec2022,placement,fog22,1,93.81699562072754,True
+Siotec2022,placement,edge10,2,99.79486465454102,True
+Siotec2022,placement,fog22,8,92.11397171020508,True
+Siotec2022,placement,edge10,11,94.27285194396973,True
+Siotec2022,placement,edge10,13,97.08094596862793,True
+Siotec2022,placement,edge10,14,1049.138069152832,False
+Siotec2022,placement,fog22,15,1045.1719760894775,False
+Siotec2022,placement,fog22,19,1042.4730777740479,False
+Siotec2022,placement,fog22,21,1045.7079410552979,False
+Siotec2022,placement,edge10,27,100.05402565002441,True
+Siotec2022,placement,edge10,28,98.21105003356934,True
+Siotec2022,placement,fog22,28,763.679027557373,False
+Siotec2022,placement,edge10,31,93.42694282531738,True
+Siotec2022,placement,fog22,34,98.24895858764648,True
+Siotec2022,placement,edge10,37,91.32909774780273,True
+Siotec2022,placement,fog22,37,1043.8868999481201,False
+Siotec2022,placement,edge10,41,94.9869155883789,True
+Siotec2022,placement,fog22,41,93.91593933105469,True
+Siotec2022,placement,edge10,45,1041.7580604553223,False
+Siotec2022,placement,fog22,46,90.78311920166016,True
+Siotec2022,placement,edge10,47,90.38591384887695,True
+Siotec2022,placement,fog22,49,1047.8119850158691,False
+Siotec2022,placement,fog22,51,96.91905975341797,True
+Siotec2022,placement,fog22,52,93.68896484375,True
+Siotec2022,placement,fog22,56,97.35107421875,True
+Siotec2022,placement,fog22,58,99.0900993347168,True
+Siotec2022,placement,edge10,64,99.52998161315918,True
+Siotec2022,placement,fog22,64,93.17398071289062,True
+Siotec2022,placement,edge10,66,1049.440860748291,False
+Siotec2022,placement,fog22,67,1044.039011001587,False
+Siotec2022,placement,edge10,70,96.34613990783691,True
+Siotec2022,placement,edge10,72,95.20292282104492,True
+Siotec2022,placement,edge10,73,1041.9890880584717,False
+Siotec2022,placement,edge10,75,91.50385856628418,True
+Siotec2022,placement,fog22,76,97.90396690368652,True
+Siotec2022,placement,fog22,77,807.1458339691162,False
+Siotec2022,placement,fog22,84,91.70103073120117,True
+Siotec2022,placement,fog22,94,101.16696357727051,True
+Siotec2022,placement,edge10,97,92.63396263122559,True
+Siotec2022,placement,fog22,100,91.89510345458984,True
+Siotec2022,placement,edge10,101,99.95889663696289,True
+Siotec2022,placement,fog22,101,1050.4460334777832,False
+Siotec2022,placement,edge10,109,98.92487525939941,True
+Siotec2022,placement,fog22,110,90.49201011657715,True
+Siotec2022,placement,edge10,113,1041.1009788513184,False
+Siotec2022,placement,edge10,116,92.74911880493164,True
+Siotec2022,placement,edge10,121,96.66609764099121,True
+Siotec2022,placement,fog22,122,97.66101837158203,True
+Siotec2022,placement,fog22,132,100.17085075378418,True
+Siotec2022,placement,fog22,133,90.850830078125,True
+Siotec2022,placement,edge10,134,1045.971155166626,False
+Siotec2022,placement,fog22,134,1047.4910736083984,False
+Siotec2022,placement,edge10,137,94.4218635559082,True
+Siotec2022,placement,fog22,137,94.46191787719727,True
+Siotec2022,placement,fog22,138,1049.5619773864746,False
+Siotec2022,placement,edge10,140,1049.0248203277588,False
+Siotec2022,placement,fog22,141,96.90999984741211,True
+Siotec2022,placement,fog22,144,92.90695190429688,True
+Siotec2022,placement,fog22,147,100.13389587402344,True
+Siotec2022,placement,fog22,149,99.06005859375,True
+Siotec2022,placement,fog22,151,1043.2569980621338,False
+Siotec2022,placement,fog22,154,92.27895736694336,True
+Siotec2022,placement,fog22,156,93.82295608520508,True
+Siotec2022,placement,fog22,157,1044.1877841949463,False
+Siotec2022,placement,fog22,158,1048.4881401062012,False
+Siotec2022,placement,edge10,164,109.91477966308594,True
+Siotec2022,placement,fog22,165,99.94101524353027,True
+Siotec2022,placement,edge10,166,1042.2389507293701,False
+Siotec2022,placement,fog22,166,1049.0829944610596,False
+Siotec2022,placement,edge10,167,1046.5238094329834,False
+Siotec2022,placement,edge10,168,1044.9860095977783,False
+Siotec2022,placement,fog22,168,1046.9582080841064,False
+Siotec2022,placement,fog22,170,99.39002990722656,True
+Siotec2022,placement,edge10,174,95.51405906677246,True
+Siotec2022,placement,fog22,174,97.75781631469727,True
+Siotec2022,placement,fog22,176,1042.1168804168701,False
+Siotec2022,placement,edge10,182,91.37296676635742,True
+Siotec2022,placement,fog22,188,91.22896194458008,True
+Siotec2022,placement,fog22,189,100.07309913635254,True
+Siotec2022,placement,fog22,194,91.33696556091309,True
+Siotec2022,placement,edge10,195,100.17609596252441,True
+Siotec2022,placement,fog22,195,1043.8640117645264,False
+Siotec2022,placement,fog22,196,1047.6019382476807,False
+Siotec2022,placement,fog22,197,1043.792963027954,False
+Siotec2022,placement,edge10,203,99.884033203125,True
+Siotec2022,placement,edge10,204,96.76599502563477,True
+Siotec2022,placement,fog22,205,1050.1339435577393,False
+Siotec2022,placement,fog22,207,1047.1839904785156,False
+Siotec2022,placement,edge10,209,99.83706474304199,True
+Siotec2022,placement,fog22,209,93.07408332824707,True
+Siotec2022,placement,fog22,212,1044.9070930480957,False
+Siotec2022,placement,fog22,213,1044.679880142212,False
+Siotec2022,placement,edge10,214,99.08699989318848,True
+Siotec2022,placement,fog22,217,91.09997749328613,True
+Siotec2022,placement,edge10,219,1045.253038406372,False
+Siotec2022,placement,edge10,220,1049.410104751587,False
+Siotec2022,placement,fog22,221,1045.1030731201172,False
+Siotec2022,placement,fog22,222,1042.018175125122,False
+Siotec2022,placement,fog22,225,98.29306602478027,True
+Siotec2022,placement,edge10,228,91.18509292602539,True
+Siotec2022,placement,fog22,230,96.89092636108398,True
+Siotec2022,placement,fog22,231,1045.7239151000977,False
+Siotec2022,placement,fog22,232,1051.8767833709717,False
+Siotec2022,placement,fog22,234,1048.3589172363281,False
+Siotec2022,placement,fog22,239,92.22006797790527,True
+Siotec2022,placement,fog22,240,97.18084335327148,True
+Siotec2022,placement,edge10,242,1050.8620738983154,False
+Siotec2022,placement,fog22,242,1047.6109981536865,False
+Siotec2022,placement,edge10,243,1044.0139770507812,False
+Siotec2022,placement,fog22,243,1046.9660758972168,False
+Siotec2022,placement,edge10,246,1045.9668636322021,False
+Siotec2022,placement,fog22,249,1049.0241050720215,False
+Siotec2022,placement,edge10,252,1041.543960571289,False
+Siotec2022,placement,fog22,252,1051.3617992401123,False
+Siotec2022,placement,fog22,253,1046.091079711914,False
+Siotec2022,placement,edge10,255,91.35103225708008,True
+Siotec2022,placement,fog22,261,99.50518608093262,True
+Siotec2022,placement,fog22,262,94.56300735473633,True
+Siotec2022,placement,fog22,264,1044.2030429840088,False
+Siotec2022,placement,edge10,265,1048.3911037445068,False
+Siotec2022,placement,edge10,269,97.93305397033691,True
+Siotec2022,placement,fog22,270,98.14810752868652,True
+Siotec2022,placement,fog22,278,94.30098533630371,True
+Siotec2022,placement,edge10,279,96.63200378417969,True
+Siotec2022,placement,fog22,280,756.472110748291,False
+Siotec2022,placement,edge10,282,749.1509914398193,False
+Siotec2022,placement,edge10,287,777.7059078216553,False
+Siotec2022,placement,fog22,288,753.6518573760986,False
+Siotec2022,placement,edge10,289,761.1119747161865,False
+Siotec2022,placement,fog22,290,755.0680637359619,False
+Siotec2022,placement,fog22,295,92.6368236541748,True
+Siotec2022,placement,fog22,301,93.63293647766113,True
+Siotec2022,placement,edge10,303,93.94001960754395,True
+Siotec2022,placement,edge10,304,1051.0740280151367,False
+Siotec2022,placement,edge10,305,1045.685052871704,False
+Siotec2022,placement,fog22,305,1046.4820861816406,False
+Siotec2022,placement,edge10,309,91.02416038513184,True
+Siotec2022,placement,fog22,309,93.03998947143555,True
+Siotec2022,placement,edge10,314,1052.0060062408447,False
+Siotec2022,placement,edge10,315,92.23008155822754,True
+Siotec2022,placement,fog22,316,93.04499626159668,True
+Siotec2022,placement,fog22,318,1049.3359565734863,False
+Siotec2022,placement,fog22,319,95.6571102142334,True
+Siotec2022,placement,fog22,321,93.39118003845215,True
+Siotec2022,placement,edge10,326,99.18785095214844,True
+Siotec2022,placement,edge10,327,97.34988212585449,True
+Siotec2022,placement,fog22,328,1047.7631092071533,False
+Siotec2022,placement,edge10,329,1048.872947692871,False
+Siotec2022,placement,edge10,330,1050.684928894043,False
+Siotec2022,placement,fog22,337,100.36993026733398,True
+Siotec2022,placement,fog22,340,93.21403503417969,True
+Siotec2022,placement,fog22,343,91.99810028076172,True
+Siotec2022,placement,fog22,345,91.85004234313965,True
+Siotec2022,placement,fog22,349,93.39094161987305,True
+Siotec2022,placement,fog22,352,97.99599647521973,True
+Siotec2022,placement,edge10,355,97.12100028991699,True
+Siotec2022,placement,fog22,357,1044.4800853729248,False
+Siotec2022,placement,fog22,361,1049.5269298553467,False
+Siotec2022,placement,fog22,367,1051.177978515625,False
+Siotec2022,placement,fog22,376,99.24602508544922,True
+Siotec2022,placement,fog22,377,91.07208251953125,True
+Siotec2022,placement,edge10,378,1051.2399673461914,False
+Siotec2022,placement,fog22,379,1048.0401515960693,False
+Siotec2022,placement,fog22,382,1042.2041416168213,False
+Siotec2022,placement,edge10,384,98.24395179748535,True
+Siotec2022,placement,edge10,387,95.86191177368164,True
+Siotec2022,placement,fog22,387,1047.7180480957031,False
+Siotec2022,placement,edge10,388,1043.565034866333,False
+Siotec2022,placement,fog22,391,94.31695938110352,True
+Siotec2022,placement,fog22,394,92.0250415802002,True
+Siotec2022,placement,fog22,395,94.9559211730957,True
+Siotec2022,placement,edge10,397,1047.8651523590088,False
+Siotec2022,placement,edge10,401,99.27487373352051,True
+Siotec2022,placement,edge10,403,95.89505195617676,True
+Siotec2022,placement,fog22,404,1043.330192565918,False
+Siotec2022,placement,edge10,411,97.32508659362793,True
+Siotec2022,placement,edge10,413,102.78105735778809,True
+Siotec2022,placement,fog22,418,98.17290306091309,True
+Siotec2022,placement,edge10,422,98.34599494934082,True
+Siotec2022,placement,fog22,425,93.92786026000977,True
+Siotec2022,placement,fog22,426,97.21899032592773,True
+Siotec2022,placement,fog22,430,1047.4119186401367,False
+Siotec2022,placement,fog22,431,93.16897392272949,True
+Siotec2022,placement,fog22,432,93.85013580322266,True
+Siotec2022,placement,edge10,433,1043.2629585266113,False
+Siotec2022,placement,edge10,435,1043.323040008545,False
+Siotec2022,placement,edge10,436,1045.5818176269531,False
+Siotec2022,placement,edge10,438,1041.266918182373,False
+Siotec2022,placement,edge10,441,1045.3650951385498,False
+Siotec2022,placement,fog22,441,1045.1490879058838,False
+Siotec2022,placement,fog22,446,97.16391563415527,True
+Siotec2022,placement,edge10,453,95.57700157165527,True
+Siotec2022,placement,fog22,459,99.99799728393555,True
+Siotec2022,placement,edge10,470,98.09494018554688,True
+Siotec2022,placement,fog22,471,97.65386581420898,True
+Siotec2022,placement,fog22,478,1049.4718551635742,False
+Siotec2022,placement,edge10,483,95.20292282104492,True
+Siotec2022,placement,fog22,486,98.24204444885254,True
+Siotec2022,placement,fog22,491,99.30205345153809,True
+Siotec2022,placement,edge10,492,100.41308403015137,True
+Siotec2022,placement,edge10,495,1048.9659309387207,False
+Siotec2022,placement,fog22,497,94.9559211730957,True
+Siotec2022,placement,edge10,500,92.620849609375,True
+Siotec2022,placement,fog22,500,1049.9920845031738,False
+Siotec2022,placement,fog22,504,96.61293029785156,True
+Siotec2022,placement,edge10,505,94.26712989807129,True
+Siotec2022,placement,fog22,506,1042.8459644317627,False
+Siotec2022,placement,fog22,510,100.51512718200684,True
+Siotec2022,placement,edge10,513,20190.91296195984,True
+Siotec2022,placement,fog22,513,1045.3581809997559,False
+Siotec2022,placement,fog22,515,100.56591033935547,True
+Siotec2022,placement,fog22,517,1046.1318492889404,False
+Siotec2022,placement,fog22,519,91.09902381896973,True
+Siotec2022,placement,fog22,520,94.0859317779541,True
+Siotec2022,placement,edge10,521,1046.5590953826904,False
+Siotec2022,placement,edge10,522,1045.3360080718994,False
+Siotec2022,placement,edge10,523,1042.2320365905762,False
+Siotec2022,placement,fog22,524,96.84109687805176,True
+Siotec2022,placement,fog22,532,96.8470573425293,True
+Siotec2022,placement,edge10,534,99.31778907775879,True
+Siotec2022,placement,fog22,537,92.88311004638672,True
+Siotec2022,placement,edge10,539,99.04217720031738,True
+Siotec2022,placement,edge10,542,1045.2170372009277,False
+Siotec2022,placement,fog22,545,97.93710708618164,True
+Siotec2022,placement,fog22,546,94.0859317779541,True
+Siotec2022,placement,edge10,547,1041.6538715362549,False
+Siotec2022,placement,fog22,547,1041.9399738311768,False
+Siotec2022,placement,edge10,552,90.82889556884766,True
+Siotec2022,placement,fog22,554,92.44799613952637,True
+Siotec2022,placement,edge10,556,1042.0598983764648,False
+Siotec2022,placement,fog22,559,1043.6339378356934,False
+Siotec2022,placement,fog22,561,1047.0631122589111,False
+Siotec2022,placement,edge10,564,97.40304946899414,True
+Siotec2022,placement,edge10,572,96.72784805297852,True
+Siotec2022,placement,fog22,572,95.94893455505371,True
+Siotec2022,placement,fog22,574,1049.386978149414,False
+Siotec2022,placement,edge10,581,1046.1409091949463,False
+Siotec2022,placement,fog22,583,95.50881385803223,True
+Siotec2022,placement,edge10,586,96.55213356018066,True
+Siotec2022,placement,fog22,593,92.67687797546387,True
+Siotec2022,placement,fog22,594,92.85402297973633,True
+Siotec2022,placement,fog22,597,1045.9039211273193,False
+Siotec2022,placement,fog22,600,98.16098213195801,True
+Siotec2022,placement,fog22,604,94.5730209350586,True
+Siotec2022,placement,fog22,607,98.36196899414062,True
+Siotec2022,placement,edge10,612,97.77212142944336,True
+Siotec2022,placement,fog22,613,96.54021263122559,True
+Siotec2022,placement,fog22,616,1043.0021286010742,False
+Siotec2022,placement,fog22,618,98.26207160949707,True
+Siotec2022,placement,fog22,621,90.63601493835449,True
+Siotec2022,placement,fog22,625,100.26407241821289,True
+Siotec2022,placement,edge10,626,95.33286094665527,True
+Siotec2022,placement,edge10,627,1043.0269241333008,False
+Siotec2022,placement,edge10,628,1044.0208911895752,False
+Siotec2022,placement,edge10,631,94.91395950317383,True
+Siotec2022,placement,fog22,631,92.85783767700195,True
+Siotec2022,placement,edge10,639,99.11894798278809,True
+Siotec2022,placement,fog22,639,92.43392944335938,True
+Siotec2022,placement,fog22,640,1045.055866241455,False
+Siotec2022,placement,edge10,645,1047.5959777832031,False
+Siotec2022,placement,fog22,647,1043.2469844818115,False
+Siotec2022,placement,fog22,653,1049.0779876708984,False
+Siotec2022,placement,fog22,655,1047.5831031799316,False
+Siotec2022,placement,fog22,658,1049.6280193328857,False
+Siotec2022,placement,fog22,668,91.3538932800293,True
+Siotec2022,placement,fog22,675,95.0310230255127,True
+Siotec2022,placement,fog22,678,100.66986083984375,True
+Siotec2022,placement,fog22,680,1042.6390171051025,False
+Siotec2022,placement,fog22,682,92.19789505004883,True
+Siotec2022,placement,fog22,684,97.8078842163086,True
+Siotec2022,placement,edge10,690,99.49207305908203,True
+Siotec2022,placement,fog22,692,99.00498390197754,True
+Siotec2022,placement,edge10,698,96.08602523803711,True
+Siotec2022,placement,fog22,700,95.70884704589844,True
+Siotec2022,placement,edge10,701,968.6269760131836,False
+Siotec2022,placement,fog22,701,1050.3737926483154,False
+Siotec2022,placement,fog22,702,1045.4471111297607,False
+Siotec2022,placement,edge10,704,98.89888763427734,True
+Siotec2022,placement,fog22,707,98.00601005554199,True
+Siotec2022,placement,edge10,708,1044.9841022491455,False
+Siotec2022,placement,fog22,708,99.3661880493164,True
+Siotec2022,placement,fog22,709,1045.7351207733154,False
+Siotec2022,placement,fog22,710,1046.8518733978271,False
+Siotec2022,placement,fog22,711,1042.7279472351074,False
+Siotec2022,placement,edge10,717,92.03290939331055,True
+Siotec2022,placement,edge10,718,91.54701232910156,True
+Siotec2022,placement,fog22,720,1044.1410541534424,False
+Siotec2022,placement,edge10,721,91.88485145568848,True
+Siotec2022,placement,edge10,722,1044.8908805847168,False
+Siotec2022,placement,fog22,722,1046.4391708374023,False
+Siotec2022,placement,fog22,724,1050.961971282959,False
+Siotec2022,placement,edge10,737,94.55204010009766,True
+Siotec2022,placement,edge10,738,96.18997573852539,True
+Siotec2022,placement,fog22,739,1046.1580753326416,False
+Siotec2022,placement,edge10,741,1041.8798923492432,False
+Siotec2022,placement,fog22,741,1045.2849864959717,False
+Siotec2022,placement,fog22,743,1043.747901916504,False
+Siotec2022,placement,edge10,745,1049.3531227111816,False
+Siotec2022,placement,fog22,745,1047.065019607544,False
+Siotec2022,placement,edge10,746,91.43495559692383,True
+Siotec2022,placement,fog22,748,90.69395065307617,True
+Siotec2022,placement,fog22,749,1044.0759658813477,False
+Siotec2022,placement,fog22,756,90.87395668029785,True
+Siotec2022,placement,fog22,760,98.81806373596191,True
+Siotec2022,placement,fog22,761,93.66917610168457,True
+Siotec2022,placement,edge10,763,1043.4539318084717,False
+Siotec2022,placement,fog22,765,1049.940824508667,False
+Siotec2022,placement,fog22,766,1044.814109802246,False
+Siotec2022,placement,fog22,767,1052.9110431671143,False
+Siotec2022,placement,edge10,768,1044.4049835205078,False
+Siotec2022,placement,fog22,773,92.94605255126953,True
+Siotec2022,placement,fog22,774,93.03998947143555,True
+Siotec2022,placement,fog22,775,859.8010540008545,False
+Siotec2022,placement,fog22,776,874.0839958190918,False
+Siotec2022,placement,fog22,779,94.48885917663574,True
+Siotec2022,placement,edge10,786,93.57595443725586,True
+Siotec2022,placement,fog22,786,93.21308135986328,True
+Siotec2022,placement,fog22,787,1046.339988708496,False
+Siotec2022,placement,edge10,788,1043.11203956604,False
+Siotec2022,placement,fog22,788,1043.877124786377,False
+Siotec2022,placement,edge10,790,95.82304954528809,True
+Siotec2022,placement,fog22,794,97.1379280090332,True
+Siotec2022,placement,fog22,795,92.46706962585449,True
+Siotec2022,placement,fog22,798,100.54492950439453,True
+Siotec2022,placement,edge10,799,94.42400932312012,True
+Siotec2022,placement,fog22,801,1049.2911338806152,False
+Siotec2022,placement,fog22,806,92.43893623352051,True
+Siotec2022,placement,edge10,807,94.02799606323242,True
+Siotec2022,placement,fog22,811,1042.2000885009766,False
+Siotec2022,placement,edge10,814,93.04189682006836,True
+Siotec2022,placement,edge10,822,92.05985069274902,True
+Siotec2022,placement,fog22,825,94.7730541229248,True
+Siotec2022,placement,edge10,826,98.93298149108887,True
+Siotec2022,placement,fog22,826,1044.3859100341797,False
+Siotec2022,placement,fog22,827,1043.1699752807617,False
+Siotec2022,placement,fog22,832,100.22115707397461,True
+Siotec2022,placement,edge10,833,94.9399471282959,True
+Siotec2022,placement,edge10,838,1042.6530838012695,False
+Siotec2022,placement,fog22,839,1049.4060516357422,False
+Siotec2022,placement,fog22,841,1048.0210781097412,False
+Siotec2022,placement,fog22,843,1047.2779273986816,False
+Siotec2022,placement,edge10,845,1044.389009475708,False
+Siotec2022,placement,fog22,847,98.68001937866211,True
+Siotec2022,placement,edge10,850,92.31901168823242,True
+Siotec2022,placement,fog22,851,1042.7889823913574,False
+Siotec2022,placement,fog22,852,100.53491592407227,True
+Siotec2022,placement,fog22,857,95.19720077514648,True
+Siotec2022,placement,edge10,858,100.88014602661133,True
+Siotec2022,placement,fog22,860,1050.5869388580322,False
+Siotec2022,placement,edge10,862,98.61993789672852,True
+Siotec2022,placement,fog22,862,91.9640064239502,True
+Siotec2022,placement,edge10,864,1042.6230430603027,False
+Siotec2022,placement,fog22,864,1043.3850288391113,False
+Siotec2022,placement,fog22,867,1051.321029663086,False
+Siotec2022,placement,edge10,868,1046.2889671325684,False
+Siotec2022,placement,fog22,871,94.57182884216309,True
+Siotec2022,placement,fog22,872,94.37704086303711,True
+Siotec2022,placement,fog22,877,96.4040756225586,True
+Siotec2022,placement,fog22,878,94.73919868469238,True
+Siotec2022,placement,fog22,880,1045.4771518707275,False
+Siotec2022,placement,fog22,890,92.11301803588867,True
+Siotec2022,placement,fog22,891,93.55401992797852,True
+Siotec2022,placement,fog22,892,1044.071912765503,False
+Siotec2022,placement,fog22,893,1041.882038116455,False
+Siotec2022,placement,edge10,894,1048.6421585083008,False
+Siotec2022,placement,fog22,907,1046.618938446045,False
+Siotec2022,placement,edge10,908,1045.5050468444824,False
+Siotec2022,placement,fog22,911,97.76806831359863,True
+Siotec2022,placement,edge10,912,94.57802772521973,True
+Siotec2022,placement,fog22,912,1047.9960441589355,False
+Siotec2022,placement,fog22,913,1049.7169494628906,False
+Siotec2022,placement,fog22,914,1041.727066040039,False
+Siotec2022,placement,edge10,917,91.51911735534668,True
+Siotec2022,placement,edge10,922,96.87185287475586,True
+Siotec2022,placement,edge10,923,100.96096992492676,True
+Siotec2022,placement,fog22,923,1045.741081237793,False
+Siotec2022,placement,fog22,928,92.4539566040039,True
+Siotec2022,placement,fog22,929,100.05807876586914,True
+Siotec2022,placement,fog22,930,1043.7469482421875,False
+Siotec2022,placement,edge10,931,91.54510498046875,True
+Siotec2022,placement,edge10,937,96.74406051635742,True
+Siotec2022,placement,edge10,938,93.60504150390625,True
+Siotec2022,placement,edge10,939,1044.0950393676758,False
+Siotec2022,placement,fog22,939,1046.1370944976807,False
+Siotec2022,placement,edge10,940,1046.6229915618896,False
+Siotec2022,placement,fog22,941,93.66607666015625,True
+Siotec2022,placement,edge10,950,93.36996078491211,True
+Siotec2022,placement,fog22,950,90.84701538085938,True
+Siotec2022,placement,fog22,951,1044.058084487915,False
+Siotec2022,placement,edge10,959,97.2750186920166,True
+Siotec2022,placement,edge10,964,108.97493362426758,True
+Siotec2022,placement,fog22,968,93.97292137145996,True
+Siotec2022,placement,fog22,974,98.48904609680176,True
+Siotec2022,placement,fog22,976,94.13886070251465,True
+Siotec2022,placement,fog22,978,98.88792037963867,True
+Siotec2022,placement,fog22,981,96.38500213623047,True
+Siotec2022,placement,fog22,983,92.12613105773926,True
+Siotec2022,placement,edge10,984,1051.7528057098389,False
+Siotec2022,placement,fog22,986,95.3831672668457,True
+Siotec2022,placement,fog22,990,92.01908111572266,True
+Siotec2022,placement,fog22,992,100.95095634460449,True
+Siotec2022,placement,edge10,994,91.01605415344238,True
+Siotec2022,placement,edge10,998,95.35002708435059,True
+Siotec2022,placement,fog22,999,97.90611267089844,True
+Media Processing,placement,edge3,1,51.35798454284668,True
+Media Processing,placement,edge3,3,54.23593521118164,True
+Media Processing,placement,edge3,6,53.54595184326172,True
+Media Processing,placement,fog12,8,51.80501937866211,True
+Media Processing,placement,edge10,9,55.193185806274414,True
+Media Processing,placement,edge3,9,46.16594314575195,False
+Media Processing,placement,fog12,11,49.30591583251953,True
+Media Processing,placement,edge10,12,47.89090156555176,True
+Media Processing,placement,edge3,13,47.54495620727539,True
+Media Processing,placement,fog12,14,46.363115310668945,False
+Media Processing,placement,edge10,15,46.15306854248047,False
+Media Processing,placement,fog12,15,51.73516273498535,False
+Media Processing,placement,fog12,17,50.77409744262695,False
+Media Processing,placement,edge3,17,46.6151237487793,False
+Media Processing,placement,edge3,19,53.991079330444336,False
+Media Processing,placement,edge10,20,53.49612236022949,False
+Media Processing,placement,fog12,20,48.712968826293945,False
+Media Processing,placement,edge3,21,50.32086372375488,False
+Media Processing,placement,edge3,23,46.922922134399414,False
+Media Processing,placement,edge3,25,47.31011390686035,True
+Media Processing,placement,edge10,26,47.2569465637207,True
+Media Processing,placement,fog12,26,47.58191108703613,False
+Media Processing,placement,edge3,27,45.81904411315918,True
+Media Processing,placement,edge3,28,50.06003379821777,True
+Media Processing,placement,edge3,29,54.37183380126953,False
+Media Processing,placement,edge10,30,54.31509017944336,True
+Media Processing,placement,edge10,31,48.069000244140625,True
+Media Processing,placement,fog12,34,45.56393623352051,True
+Media Processing,placement,edge10,37,46.77319526672363,True
+Media Processing,placement,fog12,37,48.48003387451172,True
+Media Processing,placement,edge10,39,53.18117141723633,False
+Media Processing,placement,edge3,39,48.65598678588867,False
+Media Processing,placement,fog12,40,53.07579040527344,False
+Media Processing,placement,edge10,41,50.63509941101074,True
+Media Processing,placement,edge3,43,49.8809814453125,True
+Media Processing,placement,edge10,45,47.6689338684082,True
+Media Processing,placement,edge3,45,55.52220344543457,True
+Media Processing,placement,edge10,47,48.89702796936035,True
+Media Processing,placement,fog12,47,48.83003234863281,True
+Media Processing,placement,fog12,48,47.831058502197266,False
+Media Processing,placement,edge3,48,47.415971755981445,False
+Media Processing,placement,edge3,49,53.49898338317871,True
+Media Processing,placement,edge10,52,47.28293418884277,True
+Media Processing,placement,edge10,54,55.70483207702637,True
+Media Processing,placement,fog12,54,45.93801498413086,True
+Media Processing,placement,edge3,55,46.37503623962402,False
+Media Processing,placement,edge3,59,53.68494987487793,True
+Media Processing,placement,edge10,60,50.39501190185547,True
+Media Processing,placement,fog12,60,49.38793182373047,False
+Media Processing,placement,edge10,64,54.05402183532715,True
+Media Processing,placement,edge3,65,47.367095947265625,True
+Media Processing,placement,fog12,67,50.25601387023926,True
+Media Processing,placement,fog12,69,54.90612983703613,True
+Media Processing,placement,edge10,70,53.31707000732422,True
+Media Processing,placement,edge3,70,54.83698844909668,False
+Media Processing,placement,edge3,71,49.3168830871582,True
+Media Processing,placement,edge10,73,47.9891300201416,True
+Media Processing,placement,fog12,73,52.46400833129883,True
+Media Processing,placement,edge10,75,50.17685890197754,True
+Media Processing,placement,edge10,76,50.76909065246582,True
+Media Processing,placement,fog12,76,53.73692512512207,False
+Media Processing,placement,edge3,76,49.588918685913086,False
+Media Processing,placement,edge3,77,52.8409481048584,True
+Media Processing,placement,fog12,78,46.4780330657959,False
+Media Processing,placement,fog12,79,49.794912338256836,False
+Media Processing,placement,edge10,80,52.15096473693848,False
+Media Processing,placement,fog12,84,51.80692672729492,True
+Media Processing,placement,fog12,86,50.21190643310547,True
+Media Processing,placement,fog12,87,47.9130744934082,True
+Media Processing,placement,edge3,87,52.54697799682617,False
+Media Processing,placement,edge3,88,47.40500450134277,True
+Media Processing,placement,fog12,89,47.64103889465332,False
+Media Processing,placement,fog12,92,51.20396614074707,True
+Media Processing,placement,edge10,97,53.98082733154297,True
+Media Processing,placement,fog12,99,55.023908615112305,True
+Media Processing,placement,fog12,100,45.89390754699707,True
+Media Processing,placement,edge3,100,47.04713821411133,False
+Media Processing,placement,edge10,101,48.3858585357666,True
+Media Processing,placement,edge10,102,46.91290855407715,False
+Media Processing,placement,edge3,106,53.238868713378906,True
+Media Processing,placement,edge10,109,54.72898483276367,True
+Media Processing,placement,fog12,110,48.18892478942871,True
+Media Processing,placement,fog12,111,45.53985595703125,False
+Media Processing,placement,edge3,111,49.84402656555176,False
+Media Processing,placement,fog12,113,51.35178565979004,False
+Media Processing,placement,edge10,115,54.48007583618164,False
+Media Processing,placement,edge10,116,51.9559383392334,True
+Media Processing,placement,edge3,119,52.98280715942383,True
+Media Processing,placement,edge10,121,46.23293876647949,True
+Media Processing,placement,edge3,122,49.23105239868164,True
+Media Processing,placement,edge10,127,52.08277702331543,True
+Media Processing,placement,edge3,128,48.70009422302246,True
+Media Processing,placement,fog12,129,46.68307304382324,False
+Media Processing,placement,fog12,130,49.154043197631836,False
+Media Processing,placement,fog12,131,52.1547794342041,True
+Media Processing,placement,fog12,132,52.90699005126953,True
+Media Processing,placement,edge3,133,50.499916076660156,True
+Media Processing,placement,fog12,134,49.453020095825195,True
+Media Processing,placement,edge10,137,50.173044204711914,True
+Media Processing,placement,edge3,137,51.29098892211914,True
+Media Processing,placement,fog12,138,47.97697067260742,False
+Media Processing,placement,fog12,139,50.77505111694336,False
+Media Processing,placement,edge3,139,50.67896842956543,False
+Media Processing,placement,edge10,140,53.75409126281738,False
+Media Processing,placement,edge3,141,54.04400825500488,True
+Media Processing,placement,edge10,144,54.44812774658203,True
+Media Processing,placement,fog12,145,55.795907974243164,True
+Media Processing,placement,edge3,145,54.852962493896484,False
+Media Processing,placement,edge10,146,49.3159294128418,True
+Media Processing,placement,fog12,148,49.56698417663574,True
+Media Processing,placement,edge3,148,52.8559684753418,True
+Media Processing,placement,edge3,150,58.804988861083984,True
+Media Processing,placement,fog12,152,49.31497573852539,True
+Media Processing,placement,edge3,154,48.69794845581055,True
+Media Processing,placement,fog12,155,59.7691535949707,True
+Media Processing,placement,fog12,159,50.92597007751465,True
+Media Processing,placement,edge3,162,48.284053802490234,True
+Media Processing,placement,edge10,164,46.69904708862305,True
+Media Processing,placement,fog12,166,50.68206787109375,True
+Media Processing,placement,edge10,167,53.44104766845703,True
+Media Processing,placement,fog12,168,46.25105857849121,False
+Media Processing,placement,fog12,170,54.71086502075195,True
+Media Processing,placement,edge3,170,55.1609992980957,True
+Media Processing,placement,fog12,171,47.78003692626953,False
+Media Processing,placement,edge3,172,47.02591896057129,False
+Media Processing,placement,fog12,173,51.4369010925293,False
+Media Processing,placement,edge10,174,46.85616493225098,True
+Media Processing,placement,edge10,180,50.99201202392578,True
+Media Processing,placement,fog12,180,49.03888702392578,True
+Media Processing,placement,edge3,181,50.39715766906738,False
+Media Processing,placement,edge3,184,46.053171157836914,True
+Media Processing,placement,fog12,185,44.37994956970215,True
+Media Processing,placement,edge3,187,49.55911636352539,False
+Media Processing,placement,fog12,191,46.19789123535156,True
+Media Processing,placement,edge3,192,45.42112350463867,True
+Media Processing,placement,edge10,195,49.997806549072266,True
+Media Processing,placement,edge3,196,51.544904708862305,True
+Media Processing,placement,edge10,197,48.352956771850586,False
+Media Processing,placement,fog12,199,52.00004577636719,False
+Media Processing,placement,edge3,202,46.935081481933594,True
+Media Processing,placement,edge10,203,46.78511619567871,True
+Media Processing,placement,edge10,204,51.438093185424805,True
+Media Processing,placement,edge10,205,54.35800552368164,True
+Media Processing,placement,fog12,205,50.934791564941406,False
+Media Processing,placement,fog12,208,48.004150390625,True
+Media Processing,placement,edge10,209,53.33399772644043,True
+Media Processing,placement,edge3,211,51.64790153503418,True
+Media Processing,placement,edge3,213,48.394203186035156,True
+Media Processing,placement,edge10,214,49.38912391662598,True
+Media Processing,placement,edge3,216,54.682016372680664,True
+Media Processing,placement,fog12,219,50.82511901855469,True
+Media Processing,placement,edge10,220,50.89688301086426,True
+Media Processing,placement,edge3,220,49.44300651550293,False
+Media Processing,placement,fog12,223,52.3531436920166,True
+Media Processing,placement,edge3,223,51.733970642089844,True
+Media Processing,placement,fog12,224,45.63283920288086,False
+Media Processing,placement,edge10,228,47.99604415893555,True
+Media Processing,placement,edge3,228,49.101829528808594,True
+Media Processing,placement,fog12,229,55.48596382141113,False
+Media Processing,placement,edge10,230,54.0471076965332,False
+Media Processing,placement,fog12,235,45.29094696044922,True
+Media Processing,placement,edge3,236,53.31993103027344,True
+Media Processing,placement,fog12,237,47.480106353759766,False
+Media Processing,placement,fog12,240,58.22491645812988,True
+Media Processing,placement,edge3,240,51.11193656921387,True
+Media Processing,placement,fog12,241,46.2801456451416,False
+Media Processing,placement,edge10,242,44.39282417297363,False
+Media Processing,placement,edge10,243,52.741050720214844,False
+Media Processing,placement,fog12,243,46.86307907104492,False
+Media Processing,placement,edge3,244,45.076847076416016,False
+Media Processing,placement,edge3,247,44.85297203063965,False
+Media Processing,placement,edge10,249,48.117876052856445,False
+Media Processing,placement,edge3,251,46.031951904296875,False
+Media Processing,placement,edge10,252,47.003984451293945,False
+Media Processing,placement,edge3,253,46.92411422729492,False
+Media Processing,placement,edge10,255,46.50592803955078,True
+Media Processing,placement,edge10,257,55.338144302368164,True
+Media Processing,placement,edge3,260,47.70302772521973,True
+Media Processing,placement,edge3,262,46.40007019042969,True
+Media Processing,placement,edge3,266,49.096107482910156,True
+Media Processing,placement,edge10,267,54.03614044189453,True
+Media Processing,placement,edge3,267,44.63791847229004,False
+Media Processing,placement,edge3,268,50.49300193786621,False
+Media Processing,placement,edge10,269,48.83408546447754,True
+Media Processing,placement,fog12,271,49.410104751586914,True
+Media Processing,placement,fog12,274,49.89790916442871,True
+Media Processing,placement,edge3,275,45.6080436706543,True
+Media Processing,placement,edge10,277,50.49705505371094,True
+Media Processing,placement,edge3,277,49.31783676147461,True
+Media Processing,placement,edge3,278,44.98910903930664,False
+Media Processing,placement,edge10,279,53.40719223022461,True
+Media Processing,placement,fog12,279,51.496028900146484,True
+Media Processing,placement,edge3,283,48.56419563293457,False
+Media Processing,placement,fog12,285,45.454978942871094,False
+Media Processing,placement,edge10,287,47.31416702270508,False
+Media Processing,placement,edge3,287,50.48990249633789,False
+Media Processing,placement,edge10,289,51.05304718017578,False
+Media Processing,placement,fog12,292,50.67610740661621,True
+Media Processing,placement,edge10,293,52.922964096069336,True
+Media Processing,placement,edge10,295,47.04594612121582,False
+Media Processing,placement,fog12,297,48.74897003173828,True
+Media Processing,placement,edge3,297,47.55210876464844,True
+Media Processing,placement,fog12,299,46.13780975341797,False
+Media Processing,placement,fog12,300,49.72195625305176,False
+Media Processing,placement,edge3,301,53.51591110229492,True
+Media Processing,placement,edge10,302,46.510934829711914,True
+Media Processing,placement,edge3,306,49.34215545654297,True
+Media Processing,placement,edge3,307,55.554866790771484,True
+Media Processing,placement,fog12,311,54.65412139892578,True
+Media Processing,placement,edge10,314,54.54897880554199,True
+Media Processing,placement,edge10,315,53.36594581604004,True
+Media Processing,placement,fog12,315,48.0799674987793,False
+Media Processing,placement,edge3,315,49.761056900024414,False
+Media Processing,placement,fog12,316,51.312923431396484,True
+Media Processing,placement,edge10,319,49.395084381103516,True
+Media Processing,placement,edge3,320,54.21113967895508,True
+Media Processing,placement,edge10,321,55.10687828063965,False
+Media Processing,placement,edge3,321,56.9920539855957,True
+Media Processing,placement,fog12,322,53.4060001373291,True
+Media Processing,placement,edge10,323,51.399946212768555,True
+Media Processing,placement,fog12,326,49.41701889038086,True
+Media Processing,placement,edge3,326,51.917076110839844,True
+Media Processing,placement,edge10,327,45.9139347076416,False
+Media Processing,placement,edge3,327,47.61791229248047,False
+Media Processing,placement,edge10,328,51.399946212768555,False
+Media Processing,placement,edge10,329,44.989824295043945,False
+Media Processing,placement,fog12,331,51.29885673522949,False
+Media Processing,placement,fog12,332,50.40597915649414,False
+Media Processing,placement,edge3,333,50.39787292480469,False
+Media Processing,placement,edge3,338,47.16086387634277,True
+Media Processing,placement,fog12,339,49.78489875793457,True
+Media Processing,placement,fog12,340,49.813032150268555,True
+Media Processing,placement,fog12,347,49.173831939697266,True
+Media Processing,placement,edge10,351,45.484066009521484,True
+Media Processing,placement,edge3,353,45.60995101928711,True
+Media Processing,placement,fog12,354,52.371978759765625,True
+Media Processing,placement,edge3,354,47.815799713134766,False
+Media Processing,placement,edge3,355,44.66986656188965,True
+Media Processing,placement,fog12,356,53.00092697143555,False
+Media Processing,placement,fog12,357,53.30610275268555,False
+Media Processing,placement,edge10,360,51.82385444641113,False
+Media Processing,placement,fog12,364,51.15103721618652,False
+Media Processing,placement,edge3,364,50.72212219238281,False
+Media Processing,placement,edge3,367,52.345991134643555,False
+Media Processing,placement,edge3,369,47.16897010803223,True
+Media Processing,placement,fog12,372,50.508975982666016,True
+Media Processing,placement,fog12,374,49.211978912353516,True
+Media Processing,placement,edge10,378,52.182912826538086,True
+Media Processing,placement,fog12,383,53.75313758850098,True
+Media Processing,placement,edge3,383,51.982879638671875,True
+Media Processing,placement,edge10,384,47.44887351989746,False
+Media Processing,placement,edge3,384,52.87504196166992,False
+Media Processing,placement,edge10,385,49.73006248474121,False
+Media Processing,placement,edge10,387,47.95408248901367,True
+Media Processing,placement,edge10,388,48.70915412902832,True
+Media Processing,placement,fog12,388,50.019025802612305,False
+Media Processing,placement,fog12,389,45.519113540649414,False
+Media Processing,placement,edge3,389,45.445919036865234,False
+Media Processing,placement,edge10,395,50.9190559387207,True
+Media Processing,placement,fog12,395,53.25007438659668,True
+Media Processing,placement,edge10,398,53.00784111022949,False
+Media Processing,placement,edge3,398,51.62405967712402,False
+Media Processing,placement,edge3,399,52.78801918029785,True
+Media Processing,placement,fog12,400,46.74887657165527,True
+Media Processing,placement,edge10,401,53.03382873535156,True
+Media Processing,placement,fog12,402,51.506996154785156,False
+Media Processing,placement,edge10,403,47.39689826965332,True
+Media Processing,placement,edge3,405,55.41110038757324,True
+Media Processing,placement,edge3,407,46.6618537902832,True
+Media Processing,placement,edge3,410,52.26707458496094,True
+Media Processing,placement,edge10,411,49.03006553649902,True
+Media Processing,placement,fog12,412,51.962852478027344,False
+Media Processing,placement,edge10,413,51.735877990722656,True
+Media Processing,placement,edge3,415,55.18388748168945,True
+Media Processing,placement,edge3,416,50.72188377380371,True
+Media Processing,placement,fog12,417,46.33808135986328,False
+Media Processing,placement,fog12,420,46.47111892700195,True
+Media Processing,placement,fog12,421,50.12011528015137,True
+Media Processing,placement,edge3,421,54.779052734375,False
+Media Processing,placement,fog12,424,51.86295509338379,True
+Media Processing,placement,fog12,425,46.34594917297363,True
+Media Processing,placement,edge3,427,51.70702934265137,True
+Media Processing,placement,edge10,428,46.671152114868164,True
+Media Processing,placement,edge3,428,48.030853271484375,False
+Media Processing,placement,fog12,429,55.5119514465332,True
+Media Processing,placement,edge3,429,49.626827239990234,False
+Media Processing,placement,edge10,433,51.67794227600098,True
+Media Processing,placement,fog12,433,47.87087440490723,True
+Media Processing,placement,edge10,435,53.97796630859375,False
+Media Processing,placement,edge3,436,47.651052474975586,False
+Media Processing,placement,edge10,437,47.30105400085449,False
+Media Processing,placement,fog12,438,47.44911193847656,False
+Media Processing,placement,edge10,441,47.81699180603027,False
+Media Processing,placement,edge3,441,45.237064361572266,False
+Media Processing,placement,edge3,444,48.673152923583984,True
+Media Processing,placement,fog12,445,52.55913734436035,True
+Media Processing,placement,edge3,445,45.40705680847168,False
+Media Processing,placement,edge3,448,49.41391944885254,True
+Media Processing,placement,fog12,449,50.34494400024414,True
+Media Processing,placement,edge10,453,49.49188232421875,True
+Media Processing,placement,edge3,453,46.91314697265625,True
+Media Processing,placement,edge3,454,49.31807518005371,False
+Media Processing,placement,edge10,455,55.88698387145996,False
+Media Processing,placement,edge3,456,47.11198806762695,False
+Media Processing,placement,fog12,459,48.438072204589844,True
+Media Processing,placement,edge3,460,49.61800575256348,True
+Media Processing,placement,edge10,461,47.81007766723633,False
+Media Processing,placement,fog12,463,50.28486251831055,False
+Media Processing,placement,edge10,464,49.9570369720459,True
+Media Processing,placement,fog12,464,44.877052307128906,True
+Media Processing,placement,fog12,465,49.146175384521484,False
+Media Processing,placement,edge3,466,46.485185623168945,False
+Media Processing,placement,edge3,467,52.15191841125488,False
+Media Processing,placement,fog12,468,52.123069763183594,False
+Media Processing,placement,edge10,470,53.708791732788086,True
+Media Processing,placement,fog12,471,45.300960540771484,True
+Media Processing,placement,edge3,474,51.46384239196777,False
+Media Processing,placement,edge3,476,54.299116134643555,False
+Media Processing,placement,edge10,477,50.15993118286133,False
+Media Processing,placement,fog12,477,53.11703681945801,False
+Media Processing,placement,fog12,480,51.67388916015625,True
+Media Processing,placement,edge3,481,54.28504943847656,True
+Media Processing,placement,fog12,482,50.98390579223633,False
+Media Processing,placement,edge3,483,54.74686622619629,True
+Media Processing,placement,edge10,484,50.0178337097168,True
+Media Processing,placement,fog12,484,47.91903495788574,False
+Media Processing,placement,edge3,484,48.562049865722656,False
+Media Processing,placement,edge3,485,50.7349967956543,False
+Media Processing,placement,fog12,486,53.19690704345703,True
+Media Processing,placement,edge3,487,48.06208610534668,True
+Media Processing,placement,edge10,492,52.69598960876465,True
+Media Processing,placement,edge3,492,49.14999008178711,True
+Media Processing,placement,edge10,495,48.425912857055664,True
+Media Processing,placement,edge3,495,54.290056228637695,True
+Media Processing,placement,fog12,499,51.65410041809082,True
+Media Processing,placement,edge3,499,55.57680130004883,True
+Media Processing,placement,edge10,500,52.945852279663086,False
+Media Processing,placement,fog12,501,49.954891204833984,True
+Media Processing,placement,fog12,502,50.44293403625488,True
+Media Processing,placement,fog12,503,50.21381378173828,False
+Media Processing,placement,edge3,503,51.28788948059082,False
+Media Processing,placement,edge10,506,52.980899810791016,True
+Media Processing,placement,edge3,508,50.032854080200195,True
+Media Processing,placement,edge3,509,54.22496795654297,True
+Media Processing,placement,edge3,510,44.222116470336914,True
+Media Processing,placement,edge3,511,54.02803421020508,False
+Media Processing,placement,edge3,516,48.33412170410156,True
+Media Processing,placement,fog12,518,46.19097709655762,True
+Media Processing,placement,fog12,519,51.50604248046875,True
+Media Processing,placement,edge10,521,53.93099784851074,True
+Media Processing,placement,edge3,522,46.087026596069336,True
+Media Processing,placement,edge10,523,45.76396942138672,False
+Media Processing,placement,edge3,528,51.28002166748047,True
+Media Processing,placement,edge3,529,50.8120059967041,True
+Media Processing,placement,fog12,531,54.02493476867676,True
+Media Processing,placement,edge10,533,47.94716835021973,True
+Media Processing,placement,edge3,533,50.3849983215332,True
+Media Processing,placement,edge10,539,48.87580871582031,True
+Media Processing,placement,fog12,540,52.07991600036621,True
+Media Processing,placement,edge3,540,49.12710189819336,False
+Media Processing,placement,edge10,541,50.57501792907715,False
+Media Processing,placement,fog12,543,48.989057540893555,False
+Media Processing,placement,fog12,544,54.380178451538086,True
+Media Processing,placement,fog12,545,55.140018463134766,True
+Media Processing,placement,edge10,547,53.06196212768555,True
+Media Processing,placement,edge3,550,50.618886947631836,True
+Media Processing,placement,edge3,551,47.300100326538086,True
+Media Processing,placement,edge10,554,56.23507499694824,True
+Media Processing,placement,edge3,554,47.22094535827637,True
+Media Processing,placement,edge10,556,46.525001525878906,False
+Media Processing,placement,edge3,557,52.84309387207031,False
+Media Processing,placement,edge10,558,48.8739013671875,False
+Media Processing,placement,edge10,559,50.08196830749512,False
+Media Processing,placement,fog12,559,49.508094787597656,False
+Media Processing,placement,edge10,560,45.56894302368164,False
+Media Processing,placement,fog12,561,48.62380027770996,False
+Media Processing,placement,fog12,562,47.8668212890625,False
+Media Processing,placement,edge3,562,47.238826751708984,False
+Media Processing,placement,edge10,564,49.31521415710449,True
+Media Processing,placement,edge3,564,47.4698543548584,True
+Media Processing,placement,edge10,566,48.834800720214844,False
+Media Processing,placement,edge3,566,48.90704154968262,False
+Media Processing,placement,fog12,568,46.62799835205078,True
+Media Processing,placement,fog12,571,48.413991928100586,True
+Media Processing,placement,edge3,571,47.67799377441406,True
+Media Processing,placement,edge10,572,53.83110046386719,False
+Media Processing,placement,edge3,574,51.53799057006836,False
+Media Processing,placement,edge10,577,54.67987060546875,False
+Media Processing,placement,fog12,577,50.81486701965332,False
+Media Processing,placement,fog12,579,51.49102210998535,False
+Media Processing,placement,edge10,581,47.9121208190918,False
+Media Processing,placement,edge3,582,55.45401573181152,True
+Media Processing,placement,fog12,584,53.03597450256348,True
+Media Processing,placement,edge10,589,49.01313781738281,True
+Media Processing,placement,fog12,589,54.96621131896973,True
+Media Processing,placement,edge3,593,49.29709434509277,True
+Media Processing,placement,edge3,597,51.65600776672363,True
+Media Processing,placement,edge3,600,46.278953552246094,True
+Media Processing,placement,edge3,602,56.79893493652344,True
+Media Processing,placement,edge3,603,55.193185806274414,True
+Media Processing,placement,edge3,607,52.551984786987305,True
+Media Processing,placement,fog12,610,45.3951358795166,True
+Media Processing,placement,edge3,610,53.0390739440918,True
+Media Processing,placement,fog12,611,46.08798027038574,False
+Media Processing,placement,edge3,611,51.61905288696289,False
+Media Processing,placement,edge10,612,50.44913291931152,True
+Media Processing,placement,edge3,616,52.294015884399414,True
+Media Processing,placement,fog12,617,47.772884368896484,True
+Media Processing,placement,edge3,617,49.043893814086914,False
+Media Processing,placement,edge10,619,49.39889907836914,True
+Media Processing,placement,fog12,620,49.82590675354004,True
+Media Processing,placement,edge3,620,48.1569766998291,False
+Media Processing,placement,fog12,621,46.57483100891113,True
+Media Processing,placement,edge10,622,49.06606674194336,False
+Media Processing,placement,edge3,625,52.430152893066406,True
+Media Processing,placement,edge10,626,51.107168197631836,True
+Media Processing,placement,edge10,629,47.02186584472656,True
+Media Processing,placement,fog12,629,49.54695701599121,True
+Media Processing,placement,edge3,630,47.11103439331055,False
+Media Processing,placement,edge10,631,53.865909576416016,True
+Media Processing,placement,edge3,633,50.88186264038086,True
+Media Processing,placement,edge10,634,48.73299598693848,True
+Media Processing,placement,fog12,635,51.21803283691406,False
+Media Processing,placement,edge10,636,47.45817184448242,False
+Media Processing,placement,edge10,639,51.37491226196289,True
+Media Processing,placement,fog12,640,46.65112495422363,True
+Media Processing,placement,edge10,643,47.2559928894043,False
+Media Processing,placement,edge3,643,52.937984466552734,False
+Media Processing,placement,edge10,645,48.239946365356445,False
+Media Processing,placement,edge3,645,46.792030334472656,False
+Media Processing,placement,edge3,646,48.54607582092285,False
+Media Processing,placement,edge3,648,52.95395851135254,False
+Media Processing,placement,edge3,649,51.51009559631348,False
+Media Processing,placement,fog12,652,48.52485656738281,False
+Media Processing,placement,edge3,652,47.58095741271973,False
+Media Processing,placement,edge3,653,54.995059967041016,False
+Media Processing,placement,edge3,654,50.94194412231445,False
+Media Processing,placement,fog12,655,52.89816856384277,False
+Media Processing,placement,fog12,657,48.989057540893555,False
+Media Processing,placement,edge3,657,47.289133071899414,False
+Media Processing,placement,edge3,662,46.92506790161133,True
+Media Processing,placement,edge10,663,48.922061920166016,True
+Media Processing,placement,edge3,663,47.66702651977539,False
+Media Processing,placement,fog12,666,55.563926696777344,True
+Media Processing,placement,edge3,669,48.731088638305664,True
+Media Processing,placement,edge3,670,47.80697822570801,True
+Media Processing,placement,edge3,675,47.87302017211914,True
+Media Processing,placement,fog12,681,53.910017013549805,True
+Media Processing,placement,fog12,682,46.041011810302734,True
+Media Processing,placement,fog12,683,54.373979568481445,False
+Media Processing,placement,edge3,684,48.31886291503906,True
+Media Processing,placement,fog12,685,51.48911476135254,True
+Media Processing,placement,edge10,688,52.973031997680664,True
+Media Processing,placement,edge10,690,53.92909049987793,True
+Media Processing,placement,edge3,692,53.37214469909668,True
+Media Processing,placement,fog12,694,52.1540641784668,True
+Media Processing,placement,edge3,695,51.048994064331055,True
+Media Processing,placement,edge3,696,50.20904541015625,True
+Media Processing,placement,fog12,697,46.440839767456055,False
+Media Processing,placement,edge10,698,52.79898643493652,True
+Media Processing,placement,edge3,698,54.173946380615234,True
+Media Processing,placement,edge10,699,46.71597480773926,False
+Media Processing,placement,fog12,699,45.71890830993652,False
+Media Processing,placement,edge3,700,49.04794692993164,True
+Media Processing,placement,edge10,701,53.072214126586914,True
+Media Processing,placement,edge10,704,47.93405532836914,True
+Media Processing,placement,edge3,707,50.50992965698242,True
+Media Processing,placement,edge10,708,47.041893005371094,True
+Media Processing,placement,fog12,708,46.128034591674805,False
+Media Processing,placement,edge10,717,48.16007614135742,True
+Media Processing,placement,edge3,717,46.354055404663086,True
+Media Processing,placement,edge10,718,48.0799674987793,False
+Media Processing,placement,edge10,720,54.2140007019043,True
+Media Processing,placement,edge3,720,47.93810844421387,True
+Media Processing,placement,edge3,721,47.19805717468262,False
+Media Processing,placement,edge10,722,44.851064682006836,False
+Media Processing,placement,fog12,722,49.6370792388916,False
+Media Processing,placement,edge3,724,54.97312545776367,False
+Media Processing,placement,edge10,725,47.81007766723633,False
+Media Processing,placement,fog12,729,52.75607109069824,False
+Media Processing,placement,fog12,730,45.82095146179199,False
+Media Processing,placement,edge10,734,49.97897148132324,False
+Media Processing,placement,fog12,735,50.015926361083984,True
+Media Processing,placement,edge3,736,46.95701599121094,True
+Media Processing,placement,edge10,738,49.66402053833008,True
+Media Processing,placement,edge10,739,55.15599250793457,True
+Media Processing,placement,edge3,740,54.15487289428711,False
+Media Processing,placement,edge10,741,50.02093315124512,False
+Media Processing,placement,fog12,742,52.5209903717041,False
+Media Processing,placement,fog12,743,54.35299873352051,False
+Media Processing,placement,edge3,743,46.93412780761719,False
+Media Processing,placement,edge10,745,49.07798767089844,False
+Media Processing,placement,edge3,745,50.51898956298828,False
+Media Processing,placement,edge10,746,52.575111389160156,True
+Media Processing,placement,fog12,747,50.6739616394043,True
+Media Processing,placement,edge3,752,45.82500457763672,True
+Media Processing,placement,edge3,754,46.35500907897949,True
+Media Processing,placement,edge3,758,56.09607696533203,True
+Media Processing,placement,edge10,760,46.11802101135254,True
+Media Processing,placement,edge3,760,53.24077606201172,True
+Media Processing,placement,edge10,763,51.91183090209961,False
+Media Processing,placement,edge3,764,45.83287239074707,False
+Media Processing,placement,edge3,767,51.86891555786133,False
+Media Processing,placement,edge10,768,48.13790321350098,False
+Media Processing,placement,fog12,769,52.57916450500488,False
+Media Processing,placement,edge3,769,46.82111740112305,False
+Media Processing,placement,fog12,772,48.89106750488281,True
+Media Processing,placement,edge3,772,50.43911933898926,True
+Media Processing,placement,fog12,773,46.76389694213867,False
+Media Processing,placement,fog12,774,52.04606056213379,True
+Media Processing,placement,fog12,776,46.070098876953125,True
+Media Processing,placement,fog12,777,52.50692367553711,True
+Media Processing,placement,edge3,778,53.2228946685791,True
+Media Processing,placement,fog12,779,52.39295959472656,True
+Media Processing,placement,edge3,779,49.75318908691406,False
+Media Processing,placement,edge10,780,52.82878875732422,True
+Media Processing,placement,edge3,780,47.1348762512207,False
+Media Processing,placement,edge10,781,50.662994384765625,False
+Media Processing,placement,edge3,784,51.22017860412598,False
+Media Processing,placement,edge10,786,45.58515548706055,True
+Media Processing,placement,edge10,788,48.14410209655762,True
+Media Processing,placement,fog12,790,52.79397964477539,True
+Media Processing,placement,edge3,790,53.74789237976074,True
+Media Processing,placement,edge3,791,47.492027282714844,False
+Media Processing,placement,edge3,792,47.882080078125,False
+Media Processing,placement,fog12,795,56.46681785583496,True
+Media Processing,placement,fog12,800,47.37091064453125,True
+Media Processing,placement,edge3,802,49.6060848236084,True
+Media Processing,placement,edge10,803,49.5758056640625,True
+Media Processing,placement,fog12,803,46.4940071105957,False
+Media Processing,placement,edge3,811,63.07816505432129,True
+Media Processing,placement,fog12,813,55.89580535888672,True
+Media Processing,placement,edge10,814,53.10320854187012,True
+Media Processing,placement,fog12,815,50.52304267883301,False
+Media Processing,placement,edge10,816,48.951148986816406,False
+Media Processing,placement,fog12,816,52.63185501098633,False
+Media Processing,placement,fog12,820,54.53801155090332,True
+Media Processing,placement,edge3,820,46.885013580322266,True
+Media Processing,placement,edge10,826,55.34696578979492,True
+Media Processing,placement,edge10,827,48.471927642822266,True
+Media Processing,placement,edge3,827,49.33786392211914,False
+Media Processing,placement,edge3,829,49.417972564697266,True
+Media Processing,placement,edge3,830,49.09396171569824,True
+Media Processing,placement,fog12,831,52.37078666687012,False
+Media Processing,placement,fog12,832,52.65402793884277,True
+Media Processing,placement,edge10,833,55.557966232299805,True
+Media Processing,placement,fog12,835,54.11696434020996,False
+Media Processing,placement,edge10,838,60.85395812988281,False
+Media Processing,placement,fog12,838,46.04482650756836,False
+Media Processing,placement,edge3,838,47.963857650756836,False
+Media Processing,placement,edge10,839,54.2449951171875,False
+Media Processing,placement,fog12,842,48.89702796936035,False
+Media Processing,placement,edge3,843,47.69587516784668,False
+Media Processing,placement,edge10,845,52.39105224609375,False
+Media Processing,placement,fog12,846,52.43515968322754,False
+Media Processing,placement,edge3,848,53.03001403808594,True
+Media Processing,placement,edge10,850,47.3480224609375,True
+Media Processing,placement,edge3,850,46.6458797454834,True
+Media Processing,placement,edge3,855,45.91488838195801,True
+Media Processing,placement,fog12,856,52.845001220703125,True
+Media Processing,placement,edge10,858,60.58001518249512,True
+Media Processing,placement,edge3,858,51.75185203552246,True
+Media Processing,placement,edge10,865,54.830074310302734,True
+Media Processing,placement,edge10,868,54.73184585571289,True
+Media Processing,placement,edge3,869,48.48909378051758,True
+Media Processing,placement,fog12,872,50.6899356842041,True
+Media Processing,placement,edge3,876,55.59992790222168,True
+Media Processing,placement,edge3,879,53.24912071228027,True
+Media Processing,placement,fog12,881,50.421953201293945,True
+Media Processing,placement,edge10,882,47.577857971191406,True
+Media Processing,placement,fog12,887,47.354936599731445,True
+Media Processing,placement,edge3,888,49.53789710998535,True
+Media Processing,placement,edge10,891,47.106027603149414,True
+Media Processing,placement,edge3,892,49.284934997558594,True
+Media Processing,placement,edge3,895,52.52504348754883,False
+Media Processing,placement,fog12,897,52.9780387878418,False
+Media Processing,placement,edge3,899,50.72903633117676,False
+Media Processing,placement,fog12,900,51.41401290893555,False
+Media Processing,placement,fog12,901,50.93502998352051,False
+Media Processing,placement,edge3,902,51.73802375793457,False
+Media Processing,placement,fog12,903,49.738168716430664,False
+Media Processing,placement,edge3,905,51.41115188598633,False
+Media Processing,placement,edge3,906,52.37698554992676,False
+Media Processing,placement,edge3,907,49.84903335571289,False
+Media Processing,placement,edge3,908,50.86684226989746,False
+Media Processing,placement,edge3,909,54.27098274230957,False
+Media Processing,placement,edge10,911,53.85184288024902,True
+Media Processing,placement,edge3,911,54.03494834899902,True
+Media Processing,placement,edge10,912,47.16300964355469,False
+Media Processing,placement,fog12,912,52.607059478759766,False
+Media Processing,placement,edge3,913,50.833940505981445,False
+Media Processing,placement,edge10,917,50.98390579223633,True
+Media Processing,placement,edge3,919,54.83198165893555,True
+Media Processing,placement,edge10,922,47.81699180603027,True
+Media Processing,placement,edge10,923,55.20796775817871,True
+Media Processing,placement,fog12,926,50.02903938293457,True
+Media Processing,placement,edge3,926,47.20592498779297,True
+Media Processing,placement,fog12,927,46.630144119262695,False
+Media Processing,placement,edge3,928,49.929141998291016,True
+Media Processing,placement,edge10,931,47.49298095703125,True
+Media Processing,placement,edge10,936,53.9250373840332,True
+Media Processing,placement,fog12,936,47.89996147155762,True
+Media Processing,placement,edge10,937,47.13010787963867,False
+Media Processing,placement,edge3,938,50.34494400024414,True
+Media Processing,placement,edge10,940,47.202110290527344,True
+Media Processing,placement,edge10,941,49.97110366821289,True
+Media Processing,placement,edge10,942,52.53481864929199,False
+Media Processing,placement,fog12,945,51.44619941711426,True
+Media Processing,placement,edge3,945,49.916982650756836,True
+Media Processing,placement,edge10,947,47.25003242492676,True
+Media Processing,placement,edge3,947,47.534942626953125,True
+Media Processing,placement,edge3,949,55.42707443237305,True
+Media Processing,placement,edge10,950,54.847002029418945,True
+Media Processing,placement,edge3,951,46.0970401763916,False
+Media Processing,placement,edge3,952,55.70411682128906,True
+Media Processing,placement,edge3,953,53.36499214172363,True
+Media Processing,placement,edge3,956,46.70000076293945,True
+Media Processing,placement,edge3,957,48.182010650634766,True
+Media Processing,placement,edge3,958,50.19807815551758,True
+Media Processing,placement,edge3,959,49.17192459106445,True
+Media Processing,placement,fog12,961,53.4820556640625,False
+Media Processing,placement,edge3,961,51.79595947265625,False
+Media Processing,placement,edge10,962,45.14193534851074,False
+Media Processing,placement,fog12,963,47.55401611328125,False
+Media Processing,placement,edge10,964,48.45404624938965,True
+Media Processing,placement,fog12,966,50.22001266479492,True
+Media Processing,placement,edge3,966,55.14788627624512,True
+Media Processing,placement,edge3,968,54.73589897155762,True
+Media Processing,placement,fog12,969,46.92697525024414,True
+Media Processing,placement,fog12,971,56.27179145812988,True
+Media Processing,placement,edge10,972,55.64594268798828,True
+Media Processing,placement,fog12,972,52.64115333557129,False
+Media Processing,placement,fog12,973,46.42510414123535,True
+Media Processing,placement,edge10,974,48.00295829772949,False
+Media Processing,placement,edge3,974,48.04682731628418,True
+Media Processing,placement,edge3,977,49.84092712402344,True
+Media Processing,placement,fog12,981,46.29206657409668,True
+Media Processing,placement,fog12,986,55.438995361328125,True
+Media Processing,placement,edge3,986,47.57285118103027,True
+Media Processing,placement,fog12,988,53.91502380371094,True
+Media Processing,placement,edge3,988,46.32687568664551,True
+Media Processing,placement,edge3,992,49.841880798339844,True
+Media Processing,placement,edge3,993,47.704219818115234,True
+Media Processing,placement,edge10,994,52.31308937072754,True
+Media Processing,placement,fog12,995,56.50496482849121,True
+Media Processing,placement,edge3,995,45.687198638916016,False
+Media Processing,placement,fog12,997,52.42013931274414,True
+Media Processing,placement,edge10,998,50.97484588623047,True
+Media Processing,placement,edge3,998,53.23982238769531,False
