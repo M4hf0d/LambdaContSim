@@ -4,7 +4,7 @@
 
 _**User**_
 
-give me step by step guide for insallaion 
+give me step by step guide for insallaion
 
 ---
 
@@ -71,7 +71,7 @@ After running a simulation, you can visualize the results:
 python3 scripts/vis.py
 ```
 
-The visualizations will be saved in the `` directory, and you can view them by opening `index.html` in a web browser.
+The visualizations will be saved in the ``directory, and you can view them by opening`index.html` in a web browser.
 
 ## 7. Exporting Data
 
@@ -89,146 +89,146 @@ _**User**_
 
 (venv) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ pip install -r requirements.txt
 Collecting matplotlib==3.5.2 (from -r requirements.txt (line 1))
-  Using cached matplotlib-3.5.2.tar.gz (35.2 MB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
-  Installing backend dependencies ... done
-  Preparing metadata (pyproject.toml) ... done
+Using cached matplotlib-3.5.2.tar.gz (35.2 MB)
+Installing build dependencies ... done
+Getting requirements to build wheel ... done
+Installing backend dependencies ... done
+Preparing metadata (pyproject.toml) ... done
 Collecting networkx==2.8.3 (from -r requirements.txt (line 2))
-  Using cached networkx-2.8.3-py3-none-any.whl.metadata (5.0 kB)
+Using cached networkx-2.8.3-py3-none-any.whl.metadata (5.0 kB)
 Collecting numpy==1.22.4 (from -r requirements.txt (line 3))
-  Using cached numpy-1.22.4.zip (11.5 MB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
+Using cached numpy-1.22.4.zip (11.5 MB)
+Installing build dependencies ... done
+Getting requirements to build wheel ... done
 
 [notice] A new release of pip is available: 24.3.1 -> 25.1.1
 [notice] To update, run: pip install --upgrade pip
 ERROR: Exception:
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/cli/base_command.py", line 105, in _run_wrapper
-    status = _inner_run()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/cli/base_command.py", line 96, in _inner_run
-    return self.run(options, args)
-           ~~~~~~~~^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/cli/req_command.py", line 67, in wrapper
-    return func(self, options, args)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/commands/install.py", line 379, in run
-    requirement_set = resolver.resolve(
-        reqs, check_supported_wheels=not options.target_dir
-    )
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/resolver.py", line 95, in resolve
-    result = self._result = resolver.resolve(
-                            ~~~~~~~~~~~~~~~~^
-        collected.requirements, max_rounds=limit_how_complex_resolution_can_be
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/resolvelib/resolvers.py", line 546, in resolve
-    state = resolution.resolve(requirements, max_rounds=max_rounds)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/resolvelib/resolvers.py", line 397, in resolve
-    self._add_to_criteria(self.state.criteria, r, parent=None)
-    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/resolvelib/resolvers.py", line 173, in _add_to_criteria
-    if not criterion.candidates:
-           ^^^^^^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/resolvelib/structs.py", line 156, in __bool__
-    return bool(self._sequence)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 174, in __bool__
-    return any(self)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 162, in <genexpr>
-    return (c for c in iterator if id(c) not in self._incompatible_ids)
-                       ^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py", line 53, in _iter_built
-    candidate = func()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/factory.py", line 189, in _make_candidate_from_link
-    base: Optional[BaseCandidate] = self._make_base_candidate_from_link(
-                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-        link, template, name, version
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/factory.py", line 235, in _make_base_candidate_from_link
-    self._link_candidate_cache[link] = LinkCandidate(
-                                       ~~~~~~~~~~~~~^
-        link,
-        ^^^^^
-    ...<3 lines>...
-        version=version,
-        ^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 304, in __init__
-    super().__init__(
-    ~~~~~~~~~~~~~~~~^
-        link=link,
-        ^^^^^^^^^^
-    ...<4 lines>...
-        version=version,
-        ^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 159, in __init__
-    self.dist = self._prepare()
-                ~~~~~~~~~~~~~^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 236, in _prepare
-    dist = self._prepare_distribution()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/resolution/resolvelib/candidates.py", line 315, in _prepare_distribution
-    return preparer.prepare_linked_requirement(self._ireq, parallel_builds=True)
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/operations/prepare.py", line 527, in prepare_linked_requirement
-    return self._prepare_linked_requirement(req, parallel_builds)
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/operations/prepare.py", line 642, in _prepare_linked_requirement
-    dist = _get_prepared_distribution(
-        req,
-    ...<3 lines>...
-        self.check_build_deps,
-    )
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/operations/prepare.py", line 72, in _get_prepared_distribution
-    abstract_dist.prepare_distribution_metadata(
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-        finder, build_isolation, check_build_deps
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    )
-    ^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/distributions/sdist.py", line 56, in prepare_distribution_metadata
-    self._install_build_reqs(finder)
-    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/distributions/sdist.py", line 126, in _install_build_reqs
-    build_reqs = self._get_build_requires_wheel()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/distributions/sdist.py", line 103, in _get_build_requires_wheel
-    return backend.get_requires_for_build_wheel()
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_internal/utils/misc.py", line 701, in get_requires_for_build_wheel
-    return super().get_requires_for_build_wheel(config_settings=cs)
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_impl.py", line 166, in get_requires_for_build_wheel
-    return self._call_hook('get_requires_for_build_wheel', {
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        'config_settings': config_settings
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    })
-    ^^
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_impl.py", line 321, in _call_hook
-    raise BackendUnavailable(data.get('traceback', ''))
-pip._vendor.pyproject_hooks._impl.BackendUnavailable: Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 77, in _build_backend
-    obj = import_module(mod_path)
-  File "/usr/lib64/python3.13/importlib/__init__.py", line 88, in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
-  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
-  File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
-  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
-  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
-  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
-  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
-  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
-  File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
-  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
-  File "/tmp/pip-build-env-1p8k7mxj/overlay/lib/python3.13/site-packages/setuptools/__init__.py", line 10, in <module>
-    import distutils.core
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/cli/base_command.py", line 105, in \_run_wrapper
+status = \_inner_run()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/cli/base_command.py", line 96, in \_inner_run
+return self.run(options, args)
+~~~~~~~~^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/cli/req_command.py", line 67, in wrapper
+return func(self, options, args)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/commands/install.py", line 379, in run
+requirement_set = resolver.resolve(
+reqs, check_supported_wheels=not options.target_dir
+)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/resolver.py", line 95, in resolve
+result = self.\_result = resolver.resolve(
+~~~~~~~~~~~~~~~~^
+collected.requirements, max_rounds=limit_how_complex_resolution_can_be
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+)
+^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/resolvelib/resolvers.py", line 546, in resolve
+state = resolution.resolve(requirements, max_rounds=max_rounds)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/resolvelib/resolvers.py", line 397, in resolve
+self.\_add_to_criteria(self.state.criteria, r, parent=None)
+~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/resolvelib/resolvers.py", line 173, in \_add_to_criteria
+if not criterion.candidates:
+^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/resolvelib/structs.py", line 156, in **bool**
+return bool(self.\_sequence)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/found_candidates.py", line 174, in **bool**
+return any(self)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/found_candidates.py", line 162, in <genexpr>
+return (c for c in iterator if id(c) not in self.\_incompatible_ids)
+^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/found_candidates.py", line 53, in \_iter_built
+candidate = func()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/factory.py", line 189, in \_make_candidate_from_link
+base: Optional[BaseCandidate] = self.\_make_base_candidate_from_link(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+link, template, name, version
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+)
+^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/factory.py", line 235, in \_make_base_candidate_from_link
+self.\_link_candidate_cache[link] = LinkCandidate(
+~~~~~~~~~~~~~^
+link,
+^^^^^
+...<3 lines>...
+version=version,
+^^^^^^^^^^^^^^^^
+)
+^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/candidates.py", line 304, in **init**
+super().**init**(
+~~~~~~~~~~~~~~~~^
+link=link,
+^^^^^^^^^^
+...<4 lines>...
+version=version,
+^^^^^^^^^^^^^^^^
+)
+^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/candidates.py", line 159, in **init**
+self.dist = self.\_prepare()
+~~~~~~~~~~~~~^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/candidates.py", line 236, in \_prepare
+dist = self.\_prepare_distribution()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/resolution/resolvelib/candidates.py", line 315, in \_prepare_distribution
+return preparer.prepare_linked_requirement(self.\_ireq, parallel_builds=True)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/operations/prepare.py", line 527, in prepare_linked_requirement
+return self.\_prepare_linked_requirement(req, parallel_builds)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/operations/prepare.py", line 642, in \_prepare_linked_requirement
+dist = \_get_prepared_distribution(
+req,
+...<3 lines>...
+self.check_build_deps,
+)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/operations/prepare.py", line 72, in \_get_prepared_distribution
+abstract_dist.prepare_distribution_metadata(
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+finder, build_isolation, check_build_deps
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+)
+^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/distributions/sdist.py", line 56, in prepare_distribution_metadata
+self.\_install_build_reqs(finder)
+~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/distributions/sdist.py", line 126, in \_install_build_reqs
+build_reqs = self.\_get_build_requires_wheel()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/distributions/sdist.py", line 103, in \_get_build_requires_wheel
+return backend.get_requires_for_build_wheel()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_internal/utils/misc.py", line 701, in get_requires_for_build_wheel
+return super().get_requires_for_build_wheel(config_settings=cs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_impl.py", line 166, in get_requires_for_build_wheel
+return self.\_call_hook('get_requires_for_build_wheel', {
+~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'config_settings': config_settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+})
+^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_impl.py", line 321, in \_call_hook
+raise BackendUnavailable(data.get('traceback', ''))
+pip.\_vendor.pyproject_hooks.\_impl.BackendUnavailable: Traceback (most recent call last):
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_in_process/\_in_process.py", line 77, in \_build_backend
+obj = import_module(mod_path)
+File "/usr/lib64/python3.13/importlib/**init**.py", line 88, in import_module
+return \_bootstrap.\_gcd_import(name[level:], package, level)
+~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "<frozen importlib._bootstrap>", line 1387, in \_gcd_import
+File "<frozen importlib._bootstrap>", line 1360, in \_find_and_load
+File "<frozen importlib._bootstrap>", line 1310, in \_find_and_load_unlocked
+File "<frozen importlib._bootstrap>", line 488, in \_call_with_frames_removed
+File "<frozen importlib._bootstrap>", line 1387, in \_gcd_import
+File "<frozen importlib._bootstrap>", line 1360, in \_find_and_load
+File "<frozen importlib._bootstrap>", line 1331, in \_find_and_load_unlocked
+File "<frozen importlib._bootstrap>", line 935, in \_load_unlocked
+File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+File "<frozen importlib._bootstrap>", line 488, in \_call_with_frames_removed
+File "/tmp/pip-build-env-1p8k7mxj/overlay/lib/python3.13/site-packages/setuptools/**init**.py", line 10, in <module>
+import distutils.core
 ModuleNotFoundError: No module named 'distutils'
 
 ---
@@ -247,16 +247,19 @@ For Ubuntu/Debian:
 ```sh
 sudo apt-get install python3-distutils
 ```
+
 For Fedora:
 
 ```sh
 sudo dnf install python3-distutils
 ```
+
 For Arch Linux:
 
 ```sh
 sudo pacman -S python-distutils
 ```
+
 After installing, try running `pip install -r requirements.txt` again.
 
 ---
@@ -266,12 +269,12 @@ _**User**_
 (venv) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ sudo dnf install python3-distutils
 Enter your password:
 Updating and loading repositories:
- Fedora 42 - x86_64                                                                                           100% |  53.7 KiB/s |  25.1 KiB |  00m00s
+Fedora 42 - x86_64 100% | 53.7 KiB/s | 25.1 KiB | 00m00s
 Repositories loaded.
 Failed to resolve the transaction:
 No match for argument: python3-distutils
 You can try to add to command line:
-  --skip-unavailable to skip unavailable packages
+--skip-unavailable to skip unavailable packages
 
 ---
 
@@ -338,57 +341,57 @@ _**User**_
 
 (venv) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ pip install -r requirements.txt
 Collecting matplotlib==3.5.2 (from -r requirements.txt (line 1))
-  Using cached matplotlib-3.5.2.tar.gz (35.2 MB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... done
-  Installing backend dependencies ... done
-  Preparing metadata (pyproject.toml) ... done
+Using cached matplotlib-3.5.2.tar.gz (35.2 MB)
+Installing build dependencies ... done
+Getting requirements to build wheel ... done
+Installing backend dependencies ... done
+Preparing metadata (pyproject.toml) ... done
 Collecting networkx==2.8.3 (from -r requirements.txt (line 2))
-  Using cached networkx-2.8.3-py3-none-any.whl.metadata (5.0 kB)
+Using cached networkx-2.8.3-py3-none-any.whl.metadata (5.0 kB)
 Collecting numpy==1.22.4 (from -r requirements.txt (line 3))
-  Using cached numpy-1.22.4.zip (11.5 MB)
-  Installing build dependencies ... done
-  Getting requirements to build wheel ... error
-  error: subprocess-exited-with-error
-  
-  × Getting requirements to build wheel did not run successfully.
-  │ exit code: 1
-  ╰─> [32 lines of output]
-      Traceback (most recent call last):
-        File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 353, in <module>
-          main()
-          ~~~~^^
-        File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 335, in main
-          json_out['return_val'] = hook(**hook_input['kwargs'])
-                                   ~~~~^^^^^^^^^^^^^^^^^^^^^^^^
-        File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 112, in get_requires_for_build_wheel
-          backend = _build_backend()
-        File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 77, in _build_backend
-          obj = import_module(mod_path)
-        File "/usr/lib64/python3.13/importlib/__init__.py", line 88, in import_module
-          return _bootstrap._gcd_import(name[level:], package, level)
-                 ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-        File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
-        File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
-        File "<frozen importlib._bootstrap>", line 1310, in _find_and_load_unlocked
-        File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
-        File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
-        File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
-        File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
-        File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
-        File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
-        File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
-        File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/setuptools/__init__.py", line 16, in <module>
-          import setuptools.version
-        File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/setuptools/version.py", line 1, in <module>
-          import pkg_resources
-        File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/pkg_resources/__init__.py", line 2172, in <module>
-          register_finder(pkgutil.ImpImporter, find_on_path)
-                          ^^^^^^^^^^^^^^^^^^^
-      AttributeError: module 'pkgutil' has no attribute 'ImpImporter'. Did you mean: 'zipimporter'?
-      [end of output]
-  
-  note: This error originates from a subprocess, and is likely not a problem with pip.
+Using cached numpy-1.22.4.zip (11.5 MB)
+Installing build dependencies ... done
+Getting requirements to build wheel ... error
+error: subprocess-exited-with-error
+
+× Getting requirements to build wheel did not run successfully.
+│ exit code: 1
+╰─> [32 lines of output]
+Traceback (most recent call last):
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_in_process/\_in_process.py", line 353, in <module>
+main()
+~~~~^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_in_process/\_in_process.py", line 335, in main
+json_out['return_val'] = hook(\*\*hook_input['kwargs'])
+~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_in_process/\_in_process.py", line 112, in get_requires_for_build_wheel
+backend = \_build_backend()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv/lib64/python3.13/site-packages/pip/\_vendor/pyproject_hooks/\_in_process/\_in_process.py", line 77, in \_build_backend
+obj = import_module(mod_path)
+File "/usr/lib64/python3.13/importlib/**init**.py", line 88, in import_module
+return \_bootstrap.\_gcd_import(name[level:], package, level)
+~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "<frozen importlib._bootstrap>", line 1387, in \_gcd_import
+File "<frozen importlib._bootstrap>", line 1360, in \_find_and_load
+File "<frozen importlib._bootstrap>", line 1310, in \_find_and_load_unlocked
+File "<frozen importlib._bootstrap>", line 488, in \_call_with_frames_removed
+File "<frozen importlib._bootstrap>", line 1387, in \_gcd_import
+File "<frozen importlib._bootstrap>", line 1360, in \_find_and_load
+File "<frozen importlib._bootstrap>", line 1331, in \_find_and_load_unlocked
+File "<frozen importlib._bootstrap>", line 935, in \_load_unlocked
+File "<frozen importlib._bootstrap_external>", line 1026, in exec_module
+File "<frozen importlib._bootstrap>", line 488, in \_call_with_frames_removed
+File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/setuptools/**init**.py", line 16, in <module>
+import setuptools.version
+File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/setuptools/version.py", line 1, in <module>
+import pkg_resources
+File "/tmp/pip-build-env-b4_6ri6s/overlay/lib/python3.13/site-packages/pkg_resources/**init**.py", line 2172, in <module>
+register_finder(pkgutil.ImpImporter, find_on_path)
+^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'pkgutil' has no attribute 'ImpImporter'. Did you mean: 'zipimporter'?
+[end of output]
+
+note: This error originates from a subprocess, and is likely not a problem with pip.
 
 [notice] A new release of pip is available: 24.3.1 -> 25.1.1
 [notice] To update, run: pip install --upgrade pip
@@ -399,7 +402,7 @@ error: subprocess-exited-with-error
 ╰─> See above for output.
 
 note: This error originates from a subprocess, and is likely not a problem with pip.
-(venv) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ 
+(venv) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$
 
 ---
 
@@ -489,45 +492,45 @@ I recommend Option 1 as it's most likely to work with the exact package versions
 
 _**User**_
 
-(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ python src/lambdafogsim.py             
+(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ python src/lambdafogsim.py  
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 413, in start
-    self._process = subprocess.Popen(
-  File "/usr/lib64/python3.10/subprocess.py", line 971, in __init__
-    self._execute_child(args, executable, preexec_fn, close_fds,
-  File "/usr/lib64/python3.10/subprocess.py", line 1863, in _execute_child
-    raise child_exception_type(errno_num, err_msg, err_filename)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 413, in start
+self.\_process = subprocess.Popen(
+File "/usr/lib64/python3.10/subprocess.py", line 971, in **init**
+self.\_execute_child(args, executable, preexec_fn, close_fds,
+File "/usr/lib64/python3.10/subprocess.py", line 1863, in \_execute_child
+raise child_exception_type(errno_num, err_msg, err_filename)
 FileNotFoundError: [Errno 2] No such file or directory: 'swipl'
 
 During handling of the above exception, another exception occurred:
 
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 878, in simulation
-    application_obj = place_application(
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 106, in place_application
-    raw_placement, execution_time = get_raw_placement(
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/placement.py", line 124, in get_raw_placement
-    with PrologMQI(prolog_path_args=["-s", gc.SECF2F_PLACER_PATH]) as mqi:
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 326, in __enter__
-    self.start()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 417, in start
-    raise PrologLaunchError(
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 878, in simulation
+application_obj = place_application(
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 106, in place_application
+raw_placement, execution_time = get_raw_placement(
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/placement.py", line 124, in get_raw_placement
+with PrologMQI(prolog_path_args=["-s", gc.SECF2F_PLACER_PATH]) as mqi:
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 326, in **enter**
+self.start()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 417, in start
+raise PrologLaunchError(
 swiplserver.prologmqi.PrologLaunchError: The SWI Prolog executable 'swipl' could not be found on the system path, please add it.
 
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1442, in <module>
-    main()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1426, in main
-    env.run(until=config.sim_num_of_epochs)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 254, in run
-    self.step()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 206, in step
-    raise exc
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1442, in <module>
+main()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1426, in main
+env.run(until=config.sim_num_of_epochs)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 254, in run
+self.step()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 206, in step
+raise exc
 swiplserver.prologmqi.PrologLaunchError: The SWI Prolog executable 'swipl' could not be found on the system path, please add it.
-(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ 
-(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ 
+(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$
+(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$
 
 ---
 
@@ -612,31 +615,31 @@ _**User**_
 2025-06-03 16:13:03,822 - CRITICAL : Prolog: ERROR: Prolog initialisation failed:
 2025-06-03 16:13:03,822 - CRITICAL : Prolog: ERROR: script_file `'/udd/msayah/Mahfoud/sim/LambdaContSim/SecFaaS2Fog/placer.pl'' does not exist
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 878, in simulation
-    application_obj = place_application(
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 106, in place_application
-    raw_placement, execution_time = get_raw_placement(
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/placement.py", line 124, in get_raw_placement
-    with PrologMQI(prolog_path_args=["-s", gc.SECF2F_PLACER_PATH]) as mqi:
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 326, in __enter__
-    self.start()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 428, in start
-    raise PrologLaunchError("no port found in stdout")
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 878, in simulation
+application_obj = place_application(
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 106, in place_application
+raw_placement, execution_time = get_raw_placement(
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/placement.py", line 124, in get_raw_placement
+with PrologMQI(prolog_path_args=["-s", gc.SECF2F_PLACER_PATH]) as mqi:
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 326, in **enter**
+self.start()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/swiplserver/prologmqi.py", line 428, in start
+raise PrologLaunchError("no port found in stdout")
 swiplserver.prologmqi.PrologLaunchError: no port found in stdout
 
 The above exception was the direct cause of the following exception:
 
 Traceback (most recent call last):
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1442, in <module>
-    main()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1426, in main
-    env.run(until=config.sim_num_of_epochs)
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 254, in run
-    self.step()
-  File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 206, in step
-    raise exc
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1442, in <module>
+main()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/src/lambdafogsim.py", line 1426, in main
+env.run(until=config.sim_num_of_epochs)
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 254, in run
+self.step()
+File "/udd/msayah/Mahfoud/sim/LambdaContSim/venv10/lib64/python3.10/site-packages/simpy/core.py", line 206, in step
+raise exc
 swiplserver.prologmqi.PrologLaunchError: no port found in stdout
-(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$ 
+(venv10) msayah@dragonnier:~/Mahfoud/sim/LambdaContSim$
 
 ---
 
@@ -704,7 +707,7 @@ This should fix the error about the missing Prolog file.
 
 _**User**_
 
-can you give me a guide or a document to underand how the simulator works and it's compoenets 
+can you give me a guide or a document to underand how the simulator works and it's compoenets
 
 ---
 
@@ -726,6 +729,7 @@ The simulator supports two types of infrastructure:
 - **Logical Infrastructure**: Defined in Prolog format (`.pl` files), providing a more abstract representation
 
 Each infrastructure consists of:
+
 - **Nodes**: Computing devices with properties like CPU, memory, and security capabilities
 - **Links**: Network connections between nodes with properties like latency and bandwidth
 - **Event Generators**: Sources that trigger application execution
@@ -752,6 +756,7 @@ raw_placement, execution_time = get_raw_placement(
 ```
 
 The engine uses constraint logic programming to find optimal placements considering:
+
 - Resource constraints
 - Security requirements
 - QoS needs
@@ -768,6 +773,7 @@ env.run(until=config.sim_num_of_epochs)
 ```
 
 Key features:
+
 - Discrete event simulation
 - Function execution modeling
 - Network transfer simulation
@@ -809,6 +815,7 @@ visualize_results()        # Generate visualizations
 ```
 
 Output includes:
+
 - Placement success/failure rates
 - Node and link utilization
 - Application performance metrics
@@ -817,20 +824,23 @@ Output includes:
 ## Workflow
 
 1. **Configuration**: Define infrastructure and applications
+
    ```bash
    python src/lambdafogsim.py -c custom_config.yaml
    ```
 
 2. **Infrastructure Setup**: Either generate physical infrastructure or use logical
+
    ```bash
    # For physical infrastructure
    python src/lambdafogsim.py -p infrastructure_config.yaml
-   
+
    # For logical infrastructure
    python src/lambdafogsim.py -l infrastructure_definition.pl
    ```
 
 3. **Simulation**: The simulator:
+
    - Places applications using the Prolog engine
    - Executes function invocations
    - Simulates network transfers
@@ -854,16 +864,19 @@ Output includes:
 ## Running Experiments
 
 Basic execution:
+
 ```bash
 python src/lambdafogsim.py
 ```
 
 With verbose output:
+
 ```bash
 python src/lambdafogsim.py -v
 ```
 
 With custom configuration:
+
 ```bash
 python src/lambdafogsim.py -c my_config.yaml -p my_infrastructure.yaml
 ```
@@ -871,6 +884,7 @@ python src/lambdafogsim.py -c my_config.yaml -p my_infrastructure.yaml
 ## Extending the Simulator
 
 You can customize:
+
 1. Infrastructure definitions
 2. Application topologies
 3. Placement policies (by modifying the Prolog rules)
@@ -904,6 +918,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 1. Initialization Phase
 
 ### Command-Line Argument Processing
+
 - **File:** `lambdafogsim.py`
 - **Functions:**
   - `main()` - Entry point for the simulator
@@ -911,6 +926,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
   - `gc.init()` - Initializes global constants and paths
 
 ### Configuration Loading
+
 - **File:** `config.py`
 - **Functions:**
   - `parse_config(path)` - Loads and validates configuration from YAML
@@ -922,6 +938,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
     - `infr_link_crash_probability` - Likelihood of link failures
 
 ### Infrastructure Setup
+
 - **File:** `lambdafogsim.py` and `utils.py`
 - **Functions:**
   - For physical infrastructure:
@@ -933,6 +950,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 2. Simulation Environment Setup
 
 ### SimPy Environment Creation
+
 - **File:** `lambdafogsim.py`
 - **Functions:**
   - `env = simpy.Environment()` - Creates SimPy environment
@@ -946,12 +964,15 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 3. Main Simulation Loop
 
 ### Main Simulation Process
+
 - **File:** `lambdafogsim.py`
 - **Function:** `simulation(env, steps, infrastructure)`
   - Core simulation loop that runs for `steps` epochs
 
 ### For Each Epoch (Simulation Step)
+
 1. **Infrastructure Dynamics Simulation**
+
    - `infrastructure.simulate_node_crash(category)` - Simulates node failures
    - `infrastructure.simulate_node_resurrection()` - Simulates node recovery
    - `infrastructure.simulate_link_crash()` - Simulates link failures
@@ -959,17 +980,20 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
    - `dump_infrastructure(infrastructure, gc.SECF2F_INFRASTRUCTURE_PATH)` - Updates Prolog file after changes
 
 2. **Application Recovery Processing**
+
    - After failures, handle affected applications:
      - `get_starting_function()` - Identifies from where to restart
      - `get_recursive_dependents()` - Finds affected functions
      - `replace_application()` - Attempts to find new placements
 
 3. **Event Generation**
+
    - For each event generator:
      - `take_decision(event_generator_trigger_probability)` - Decides if event should fire
      - `take_decision(event_probability)` - For each event in the generator
 
 4. **Application Placement**
+
    - For each application triggered by events:
      - `place_application(application_name, config_application, generator_id, infrastructure, step_number)` - Tries to place the application
      - Within `place_application()`:
@@ -977,6 +1001,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
        - `parse_placement()` - Processes the Prolog result
 
 5. **Function Execution**
+
    - For each placed application:
      - `get_ready_functions(application_obj.chain)` - Identifies functions ready to execute
      - `FunctionProcess(function, env, application_obj)` - Creates SimPy process for each function
@@ -990,6 +1015,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 4. Function Execution Flow
 
 ### Function Process Execution
+
 - **File:** `function_process.py`
 - **Class:** `FunctionProcess`
 - **Methods:**
@@ -1004,6 +1030,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 5. Application Replacement
 
 ### Handling Failures
+
 - **File:** `lambdafogsim.py`
 - **Functions:**
   - `replace_application(application_obj, start_function, starting_nodes, crashed_nodes, crashed_link, infrastructure, step_number)` - Finds new placements for affected parts
@@ -1016,6 +1043,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 ## 6. Termination and Reporting
 
 ### End of Simulation
+
 - **File:** `lambdafogsim.py`
 - **Functions:**
   - `env.run(until=config.sim_num_of_epochs)` - Runs until specified epochs
@@ -1026,6 +1054,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
   - `visualize_results()` - Calls visualization script
 
 ### Visualization
+
 - **File:** `vis.py`
 - **Functions:**
   - `main()` - Entry point for visualization
@@ -1034,6 +1063,7 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
   - Creates HTML report in `` directory
 
 ### Data Export
+
 - **File:** `export_data.py`
 - **Functions:**
   - `export_all_data()` - Coordinates all exports
@@ -1055,4 +1085,3 @@ Below is a comprehensive guide to the LambdaFogSim simulation lifecycle, tracing
 This detailed breakdown provides a comprehensive roadmap of the simulation execution flow through the LambdaFogSim code base.
 
 ---
-
